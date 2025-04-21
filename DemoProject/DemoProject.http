@@ -1,0 +1,31 @@
+@DemoProject_HostAddress = http://localhost:5199
+
+POST {{DemoProject_HostAddress}}/api/category
+Content-Type: application/json
+
+{
+    "title": "Kategorija 1",
+    "code": "Kategorija1",
+    "description": "Kategorija 1"
+}
+###
+
+GET {{DemoProject_HostAddress}}/api/category
+Accept: application/json
+###
+
+GET {{DemoProject_HostAddress}}/api/category/ac60fe10-0825-4263-87d6-6fe80858a0e5
+Accept: application/json
+###
+
+PUT {{DemoProject_HostAddress}}/api/category/2debb081-1416-48cb-a664-3c14e743b92a
+Content-Type: application/json
+{
+  "title": "Izmenjena kategorija",
+  "code": "IzmenjenaKategorija",
+  "description": "Izmenjena kategorija"
+}
+###
+
+DELETE {{DemoProject_HostAddress}}/api/category/2debb081-1416-48cb-a664-3c14e743b92a
+###

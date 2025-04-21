@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "cccd09c6-dddd-4dbc-bd22-1e349c0d7f30",
+    "Title": "Kategorija 1",
+    "Code": "Kategorija1",
+    "Description": "Kategorija 1"
+  },
+  {
+    "Id": "ac60fe10-0825-4263-87d6-6fe80858a0e5",
+    "Title": "Kategorija 2",
+    "Code": "Kategorija2",
+    "Description": "Kategorija 2"
+  }
+]

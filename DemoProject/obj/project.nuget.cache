@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFla7QCanfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tatjana Bailovic\\Downloads\\DemoProject\\DemoProject\\DemoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tatjana Bailovic\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Tatjana Bailovic\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
